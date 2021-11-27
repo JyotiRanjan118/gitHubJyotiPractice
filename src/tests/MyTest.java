@@ -4,7 +4,7 @@ public class MyTest {
 	
 	int i=0;
 	public MyTest() {
-		// TODO Auto-generated constructor stub
+		System.out.println("27 nov file");
 	}
 
 }
