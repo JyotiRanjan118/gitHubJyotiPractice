@@ -8,5 +8,9 @@ public class CherryPick {
 		
 		int sal=100;
 	}
+	
+	public void test() {
+		System.out.println("test feature");
+	}
 
 }
