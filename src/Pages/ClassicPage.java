@@ -13,7 +13,7 @@ public class ClassicPage {
 
 
         int age=10;
-        int sal=12;
+        int sal=15;
 
 
 	}
