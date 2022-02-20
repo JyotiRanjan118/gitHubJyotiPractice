@@ -10,6 +10,7 @@ public class ClassicPage {
 		
 		System.out.println(div);
         System.out.println("Bye");
+		int age = 30;
 
 	}
 	
