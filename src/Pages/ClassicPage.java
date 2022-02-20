@@ -16,8 +16,14 @@ public class ClassicPage {
         int sal=15;
 	}
 	
+<<<<<<< HEAD
 	public void push() {
 		System.out.println("trying push to remote");
+=======
+	public void push(){
+		
+	System.out.println("Someone has pushed the code remotely");
+>>>>>>> 037c9948a6006b1154beeb888fc238e2e4959bfd
 	}
 	
 	
