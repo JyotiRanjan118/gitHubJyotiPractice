@@ -14,8 +14,11 @@ public class ClassicPage {
 
         int age=10;
         int sal=15;
-
-
 	}
+	
+	public void push() {
+		System.out.println("trying push to remote");
+	}
+	
 	
 }	
