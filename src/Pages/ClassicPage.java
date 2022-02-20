@@ -10,7 +10,11 @@ public class ClassicPage {
 		
 		System.out.println(div);
         System.out.println("Bye");
-		int age = 30;
+
+
+        int age=10;
+        int sal=12;
+
 
 	}
 	
