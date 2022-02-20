@@ -18,4 +18,10 @@ public class ClassicPage {
 
 	}
 	
+	public void push(){
+		
+	System.out.println("Someone has pushed the code remotely");
+	}
+	
+	
 }	
