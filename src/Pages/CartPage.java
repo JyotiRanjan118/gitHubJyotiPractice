@@ -10,6 +10,9 @@ public class CartPage {
 			System.out.println("Cart is done");
 		}
 		
+		System.out.println("cart1");
+		
+		
 	}
 
 }
