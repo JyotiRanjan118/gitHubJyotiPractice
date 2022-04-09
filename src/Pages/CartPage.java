@@ -9,11 +9,8 @@ public class CartPage {
 		if(true) {
 			System.out.println("Cart is done");
 		}
-		
-		System.out.println("cart1");
-		System.out.println("Cart2");
-		System.out.println("Cart3");
-		
+
 	}
+
 
 }
