@@ -10,6 +10,11 @@ public class CartPage {
 			System.out.println("Cart is done");
 		}
 		
+		
+		while(true) {
+			System.out.println("hi");
+			break;
+		}
 	}
 
 }
