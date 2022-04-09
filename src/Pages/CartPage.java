@@ -12,6 +12,7 @@ public class CartPage {
 		
 		System.out.println("cart1");
 		System.out.println("Cart2");
+		System.out.println("Cart3");
 		
 	}
 
